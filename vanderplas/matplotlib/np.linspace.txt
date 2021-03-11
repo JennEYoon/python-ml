@@ -1,0 +1,39 @@
+# np.linspace - for plot axis  
+
+np.linspace(start, stop, numsteps, endpoint=false) 
+
+x1 = np.linspace(0, 2, 10)  
+Creates 10 equally distributed data points from 0 to 2.  
+
+np.arange(start, stop, stepsize)  
+
+x2 = np.arange(0, 2, .25)  
+Creates distributed points from 0 to 2 at .25 increments.  
+
+linear spacing > linspace 
+geomspace 
+logspace   
+
+
+Matplotlib  
+
+y1 = sin(x1)      <-- forgot np.  y1 = np.sin(x1)
+plt.plot(x1, y1)  <-- works! 
+
+fig, ax = plt.subplots(1)  
+ax[0] = plt.plot(x2, cos(x2)) 
+<-- can only subscript if there is more than 1.
+ax.plot(x2, np.cos(x2))  
+
+fig, ax = plot.subplots(2) 
+ax[0].plot(x2, np.cos(x2))
+ax[1].plot(x2, np.sin(x2))  
+# prints 2 plots one on top of the other, vertically
+
+# sige-by-side  
+fig, ax = plt.subplots(1, 2)  # nrow, ncol 
+ax[0] = plt.plot(x2, np.cos(x2))
+ax[1] = plt.plot(x2. mp.sin(x2), '-or')
+
+something is missing, mixed up.  Review. 
+Dec 12, 2020.  
