@@ -5,5 +5,5 @@
 
 ### Date started, March 10, 2021  
 
-### Description: New repo, clean history from pushing too many images, large files.  
+### Description: New repo, clean up history from pushing too many images, large files.  
 
