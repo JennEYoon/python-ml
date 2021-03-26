@@ -1,4 +1,4 @@
-# Keep python v3.6, upgrade not compatible with fastbook libs 
+# To update python to v 3.7, definitive fastai dev version.  
 # Also installed TensorFlow 2, Ploytly 3, cufflinks 0.17 for Udemy ds class.
 name: fastai20
 channels:
