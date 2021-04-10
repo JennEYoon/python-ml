@@ -1,10 +1,9 @@
 # Copy test codes here
 
-
+https://www.geeksforgeeks.org/python-string-strip/
 Python string | strip()
-Difficulty Level : Basic
-Last Updated : 18 May, 2020
-strip() is an inbuilt function in Python programming language that returns a copy of the string with both leading and trailing characters removed (based on the string argument passed).
+
+**strip()** is an inbuilt function in Python programming language that returns a copy of the string with both leading and trailing characters removed (based on the string argument passed).
 
 Syntax:
 string.strip([chars])
