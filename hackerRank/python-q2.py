@@ -23,3 +23,23 @@ if __name__ == '__main__':
 
 # Q why funciton called "if __name__ = '__main__': ?  Why dunders? 
 
+# Python3 program to demonstrate the use of
+# strip() method
+
+string = """ geeks for geeks """
+
+# prints the string without stripping
+print(string)
+
+# prints the string by removing leading and trailing whitespaces
+print(string.strip())
+
+# prints the string by removing geeks
+print(string.strip(' geeks'))
+
+""" 
+Output:  
+    geeks for geeks     # not stripping leading spaces
+geeks for geeks  # stripped leading spaces
+for  # stripped space and "geeks"  
+"""
