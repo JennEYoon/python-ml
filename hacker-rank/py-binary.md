@@ -1,6 +1,6 @@
 # Decimal to Binary Integer, longest sequence of 1's in binary format.  
 
-<a href="dec_to_binary.jpg" width="800px; alt="dec_to_binary">
+<img src="dec_to_binary.jpg" width="800px; alt="dec_to_binary" />
 
 \-\-\-  
 
