@@ -1,7 +1,7 @@
 # Decimal to Binary Integer, longest sequence of 1's in binary format.  
 
-<img src="dec_to_binary.jpg" style="width:900">
-
+<img src="dec_to_binary.jpg" style="width:800">
+#### image worked.  
 
 
 \-\-\-  
