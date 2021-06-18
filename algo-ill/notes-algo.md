@@ -7,12 +7,16 @@ Coursera classes, 2012 start.
 
  1) Divide and Conquer  
 
+
+ 1) Master Method - running time estimate  
+
+
  1) Quick sort, pivot  
 
 
  1) Linear Time Selection  
 
- 1) Master Method  
+ 
 
 
  1) Linear-Time Selection  
