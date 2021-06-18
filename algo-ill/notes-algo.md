@@ -19,6 +19,9 @@ Coursera classes, 2012 start.
  
 
 
- 1) Linear-Time Selection  
+ 1) Big-O, proofs, Probability  
+
+
+
 
 
