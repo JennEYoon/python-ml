@@ -1,7 +1,0 @@
-# My notes - Scikit-Image Tutorials  
-
-Scipy 2018, Scipy 2019 available.  
-Youtube has Scipy 2018.  Do this, and try notebooks.  
-Zip notebook downloaded.  
-
-
