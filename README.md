@@ -1,4 +1,4 @@
-# Python machine learning  
+# Python language and machine learning using Python
 ## A small amount of other programming languages  
 
 ### Author: Jennifer E Yoon   
