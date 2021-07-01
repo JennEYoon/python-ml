@@ -1,7 +1,9 @@
 scikit-image tutorials
 ======================
 
-A collection of tutorials for the [scikit-image](http://skimage.org) package.
+A collection of tutorials for the [scikit-image](http://skimage.org) package.  
+
+(JY comment -- See "lectures" folder for tutorial notebooks.)
 
 Launch the tutorial notebooks directly with MyBinder now:
 
