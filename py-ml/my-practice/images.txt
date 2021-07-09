@@ -1,0 +1,3 @@
+../python-ml-2nd-master/code/ch03/images
+
+Symlink - each chapter is different.
