@@ -4,6 +4,12 @@
   * Data Science Career & Interview - Jose Portilla - guest 8/5/2020   
     https://hhmi.udemy.com/course/data-science-career-guide-interview-preparation/learn/lecture/8576252#overview  
   
+  * Python for Data Structures, Algorithms, Interviews - Jose Portilla - guest 2021  
+    https://hhmi.udemy.com/course/python-for-data-structures-algorithms-and-interviews/learn/lecture/3144000#overview
+    
+  * Also see Algorithms Illuminated, books 1-4 - Tim Roughgarden  
+    
+  
   * Pytorch DL class - Jose Portilla  - guest 8/5/2020  
     https://hhmi.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/learn/lecture/14837938#overview    
     
