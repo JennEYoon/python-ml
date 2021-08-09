@@ -8,7 +8,9 @@
     https://hhmi.udemy.com/course/python-for-data-structures-algorithms-and-interviews/learn/lecture/3144000#overview
     
   * Also see Algorithms Illuminated, books 1-4 - Tim Roughgarden  
-    
+    - YouTube playlist for all 4 books.  
+    - EdX free - no graded problem sets, first 2 classes, $150 per class.  
+    - Coursera - all 4 classes, $50 per month with problem sets.  
   
   * Pytorch DL class - Jose Portilla  - guest 8/5/2020  
     https://hhmi.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/learn/lecture/14837938#overview    
