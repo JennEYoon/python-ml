@@ -7,3 +7,8 @@ Keras is now the standard API, pre-packaged with TF2.
   * Finished sections to 43, Project Overview. 
   * Try myself on the notebook.  Good practice. 
   * WCC today, up to Section 42.  
+
+#### 8/12/2021 Note:  
+
+ * To review tensorflow part ANN.  
+ * Compare with PyTorch class.  
