@@ -1,5 +1,4 @@
-# Python language and machine learning using Python
-## A small amount of other programming languages  
+# My practice with Python coding and machine learning   
 
 ### Author: Jennifer E. Yoon   
 Copyright 2021 by Jennifer E. Yoon under Apache 2.0 License.   
