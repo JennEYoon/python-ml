@@ -1,2 +1,0 @@
-git add python cheatsheet  
-git add udemy-ds-bc folder removed, rename
