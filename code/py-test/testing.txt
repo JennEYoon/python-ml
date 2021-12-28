@@ -1,7 +1,0 @@
-# figure out how to use "attest" to test  
-
-Print out result?  
-Use with debugger console?  
-
-Nov 17, 2021 memo. 
-

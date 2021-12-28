@@ -1,3 +1,0 @@
-# Put code here for URL call from DatasciY.com  
-
-Testing a simply python file.
